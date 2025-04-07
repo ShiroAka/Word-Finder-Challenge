@@ -15,7 +15,7 @@ The solution also contains some tests to check each algorithm and how much time 
 More tests will be added in the future...
 
 ### Why use two algorithms?
-Being that the **secquential search** algorithm is more efficient in terms of <ins>memory usage<ins> (but requires more processing time) and the **DFS** one is more efficient in <ins>CPU usage</ins> (but requires more memory to allocate the different structures), and given that I have not been able to make an algorithm that uses little CPU and memory at the same time (and think it would be difficult to do it), I think it is nice to have several options that have different pros/cons to be able to choose the right one for each case. 
+Being that the **secquential search** algorithm is more efficient in terms of <ins>memory usage</ins> (but requires more processing time) and the **DFS** one is more efficient in <ins>CPU usage</ins> (but requires more memory to allocate the different structures), and given that I have not been able to make an algorithm that uses little CPU and memory at the same time (and think it would be difficult to do it), I think it is nice to have several options that have different pros/cons to be able to choose the right one for each case. 
 
 
 ## Folder Structure
